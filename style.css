@@ -16,8 +16,9 @@ body {
 }
 
 .main__wrapper {
-  max-width: 658px;
-  margin: 70px auto 0;
+  max-width: 670px;
+  margin: 0 auto;
+  padding: 70px 15px 35px;
 }
 
 .progress__wrap {
